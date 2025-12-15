@@ -1,0 +1,23 @@
+{
+  "name": "test_suites_playwright",
+  "version": "1.0.0",
+  "description": "for play wright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmetTEchies/Test_suites_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EmetTEchies/Test_suites_Playwright/issues"
+  },
+  "homepage": "https://github.com/EmetTEchies/Test_suites_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.2"
+  }
+}
